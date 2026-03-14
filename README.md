@@ -137,3 +137,15 @@ Optimize delivery operations to reduce cancellations and pending orders.
 Target metro cities with promotional campaigns to further increase sales.
 
 Use data-driven discount strategies to balance customer acquisition and profitability.
+
+**Disclaimer**
+
+This project is for **educational and analytical purposes only**.  
+It is **not financial advice**.
+
+---
+
+** Author**
+
+**Suraj Sahu 👤**  
+Data Analytics | Power BI | SQL | Excel | API Integration  
