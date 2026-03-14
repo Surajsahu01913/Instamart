@@ -7,7 +7,7 @@ The dashboard was built using Power BI to visualize order trends, sales metrics,
 
 ## 📊 Dashboard Overview
 ![Instamart](dashbord2.png)
-![Instamart](Dashbord 1.png)
+![Instamart](dashbord1.png)
 
 ## 1️⃣ Sales & Order Overview
 
@@ -86,3 +86,54 @@ New Delhi recorded the highest order count.
 Other major cities like Hyderabad, Bengaluru, and Gurugram also show strong order volumes.
 
 Quick-commerce adoption is highest in metro cities.
+
+# 📊 Key Insights from Instamart Data Analysis
+## 1️⃣ Sales Performance
+
+The total sales generated were 93,185, indicating steady demand for grocery products on the platform.
+
+After applying discounts, the final revenue decreased from the total price value of 653,651, showing that discount strategies significantly impact revenue.
+
+## 2️⃣ Monthly Sales Trend
+
+Sales fluctuate throughout the year with higher sales observed during mid-year months.
+
+Promotional campaigns and seasonal demand likely influence these sales spikes.
+
+## 3️⃣ Category-wise Orders
+
+Staples and Beverages recorded the highest number of orders, showing strong demand for essential grocery items.
+
+Dairy & Bread and Fruits & Vegetables also contribute significantly to total orders.
+
+Categories like Baby Care and Personal Care show comparatively lower demand.
+
+## 4️⃣ City-wise Orders
+
+New Delhi recorded the highest number of orders, indicating strong quick-commerce adoption.
+
+Cities such as Hyderabad, Bengaluru, and Gurugram also show significant order volumes.
+
+Metro cities dominate the overall order distribution.
+
+## 5️⃣ Order Status Analysis
+
+Orders are distributed across multiple statuses such as Shipped, Delivered, Cancelled, Pending, and Returned.
+
+A relatively high number of cancelled and pending orders suggests opportunities to improve delivery efficiency and order fulfillment processes.
+
+## 6️⃣ Customer and Order Behavior
+
+The platform served 50 unique customers with 4,613 total orders, indicating frequent purchasing behavior.
+
+The average order value of 777.23 reflects moderate basket size typical in quick-commerce grocery shopping.
+
+## 🎯 Business Recommendations
+
+Focus on high-demand categories such as staples and beverages to maintain inventory availability.
+
+Optimize delivery operations to reduce cancellations and pending orders.
+
+Target metro cities with promotional campaigns to further increase sales.
+
+Use data-driven discount strategies to balance customer acquisition and profitability.
